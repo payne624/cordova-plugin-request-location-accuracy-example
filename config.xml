@@ -24,7 +24,6 @@
     <plugin name="cordova-plugin-request-location-accuracy" spec="*" />
     <plugin name="cordova.plugins.diagnostic" spec="*" />
      <plugin name="cordova-plugin-geolocation" source="npm" spec="~2.4.3" />
-   <plugin name="cordova.plugins.diagnostic" source="npm" />
 <gap:config-file platform="android" parent="/manifest" mode="add">
     <engine name="ios" spec="latest" />
     <engine name="android" spec="latest" />
